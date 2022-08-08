@@ -1,5 +1,7 @@
 Introduction
 Hoisting
+Undefined
+Variable Environment
 Types
 Primitive Types
 functions
@@ -48,7 +50,7 @@ lexical 1  -
 lexical 2
 lexical 3
 
-for e.g There are lots of lexical environments which one is currently 
+for e.g There are lots of lexical environments, which one is currently 
         running is managed by execution context
 
 
@@ -121,6 +123,7 @@ A type of data that represents a  single value is called primitive data type
 4. number - integer/floating type(decimal)
 5. string - a sequence of characters
 6. Symbol - used in ES6
+7. Bigint - used in ES6
 
 Anything which is not primitive is an Object in javascript
 
